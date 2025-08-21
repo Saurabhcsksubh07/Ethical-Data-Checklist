@@ -73,7 +73,7 @@ Status: Moderately Compliant
 
  ☛𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 & 𝗣𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻
 
-•Docs:https: //github.com/Saurabhcsksubh07/Ethical-Data-Checklist/blob/main/docs/Ethical_Data_Checklist_SaurabhRai.docx.pdf
+•Docs:https://github.com/Saurabhcsksubh07/Ethical-Data-Checklist/blob/main/docs/Ethical_Data_Checklist_SaurabhRai.docx.pdf
 
 •Presentation: https://github.com/Saurabhcsksubh07/Ethical-Data-Checklist/blob/main/ppt/Ethical-Data-Use-Checklist-App.PPTx
 
